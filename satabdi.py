@@ -1,1 +1,2 @@
-"hello there!!! Have a great day.."
+name = input("Enter your name: ")
+print(name)
