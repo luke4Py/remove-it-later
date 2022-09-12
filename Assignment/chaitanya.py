@@ -1,5 +1,5 @@
-gender = input("Enter your gender: ")
-age = int(input("Enter your age: "))
+gender = input("gender: ")
+age = int(input("age:"))
 if gender == "male":
     if age>=1 and age<=10:
         print("Section1")
